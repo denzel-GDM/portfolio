@@ -1,4 +1,4 @@
-baseURL = 'https://denzel-GDM.github.io'
+baseURL = 'https://denzl85.github.io'
 languageCode = 'en-us'
 title = 'My Portfolio'
 theme = "hugo-developer-portfolio"
