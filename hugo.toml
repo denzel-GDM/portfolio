@@ -2,7 +2,7 @@ baseURL = 'https://denzl85.github.io'
 languageCode = 'en-us'
 title = 'My Portfolio'
 theme = "hugo-developer-portfolio"
-publishDir = 'docs'
+#publishDir = 'docs'
 [params.plugins]
   # CSS Plugins
   [[params.plugins.css]]
