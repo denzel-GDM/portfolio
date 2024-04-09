@@ -1,5 +1,5 @@
 banner:
-  title: Hi! I’m Denzl
+  title: Hi! I’m Denzl - DevOps Engineer
 social:
   github: denzl85
   gitlab: intouchwifi
@@ -8,14 +8,14 @@ social:
 about:
   enable: true
   content: 15 years in IT technologies
-  button:
-    btnText: Find out more
-    URL: "/about"
+#  button:
+#    btnText: Find out more
+#    URL: "/about"
 skill:
   enable: true
   item:
     - title: Python
-      logo: http://svgur.com/s/15BU
+      logo: ![Minion](/static/ansible.svg)
       description: Details coming soon, contact me if you want to know more
     - title: Ansible
       logo: https://jumpshare.com/s/7GHtsFL1dYCjaVS2Ri9Q

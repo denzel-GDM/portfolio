@@ -1,4 +1,4 @@
-baseURL = 'https://denzl85.github.io'
+baseURL = 'https://denzl85.github.io/portfolio'
 languageCode = 'en-us'
 title = 'My Portfolio'
 theme = "hugo-developer-portfolio"
@@ -13,18 +13,6 @@ theme = "hugo-developer-portfolio"
   URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"
   # navigation
 [menu]
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  [[menu.main]]
-  name = "Blog"
-  URL = "blog"
-  [[menu.main]]
-  name = "Portfolio"
-  URL = "portfolio"
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
   [params]
   home = "Home" # What you want the homepage to show up as in the menu bar
   # Meta data
