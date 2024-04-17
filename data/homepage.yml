@@ -7,7 +7,7 @@ social:
   telegram: denzlwn
 about:
   enable: true
-  content: 15 years in IT technologies
+  content: 20 years in IT technologies
 #  button:
 #    btnText: Find out more
 #    URL: "/about"
@@ -37,7 +37,11 @@ certifications:
 education:
   enable: true
   item:
-    - title: BSc Computer Science
-      year: 2018 - Present
-      academy: Durham University
+    - title: Computer Science
+      year: 2003 - 2008
+      academy: Academy of Communication
+      image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793268/logos/logos_Durham_fc2sae.svg
+    - title: Economic science
+      year: 2011 - 2013
+      academy: Russian Academy of National Economy and Public Administration
       image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793268/logos/logos_Durham_fc2sae.svg
